@@ -1,0 +1,10 @@
+{
+  "table": {
+    "headers": ["Name", "Age", "City"],
+    "rows": [
+      ["John", 25, "New York"],
+      ["Mary", 30, "London"],
+      ["Bob", 40, "Paris"]
+    ]
+  }
+}
