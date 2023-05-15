@@ -1,1 +1,1 @@
-Take JSON and generate a HTML Table. 
+Very simple JSON -> HTML table component
